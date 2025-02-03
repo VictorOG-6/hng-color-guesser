@@ -1,4 +1,49 @@
-# React + TypeScript + Vite
+# Color Guessing Game
+
+A React-based color guessing game built with TypeScript and Vite.
+
+## Getting Started
+
+### Prerequisites
+- Node.js (v18.x or higher recommended)
+- npm (v9.x or higher) or yarn
+
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/VictorOG-6/hng-color-guesser.git
+cd hng-color-guesser
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+3. **Run the development server**
+```bash
+npm run dev
+```
+
+4. **Open in browser**
+The application will be available at:
+```bash
+http://localhost:5173
+```
+
+### Available Scripts
+```bash
+npm run dev    # Start development server
+npm run build  # Create production build
+npm run preview  # Preview production build
+```
+
+---
+
+## Project Configuration
+
+### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
